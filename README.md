@@ -110,44 +110,7 @@ Stock Forecast Dashboard (KPIs & forecasts)
 
 Fraud Analysis Dashboard (risk breakdowns)
 
-📁 3. Repository Structure
-Financial-Analytics-and-Fraud-Detection-Project/
-│
-├── data/
-│   ├── metadata_symbols.csv
-│   ├── stocks_sample/      # Sample OHLC stock files
-│   └── fraud_dataset.csv
-│
-├── notebooks/
-│   ├── 01_data_collection.ipynb
-│   ├── 02_stock_forecasting.ipynb
-│   ├── 03_feature_engineering.ipynb
-│   ├── 04_fraud_detection_model.ipynb
-│   └── 05_visualizations.ipynb
-│
-├── dashboards/
-│   ├── Stock_Forecast_Dashboard.pbix
-│   ├── Fraud_Analysis_Dashboard.pbix
-│   └── dashboard_images/
-│        ├── stock_dashboard.png
-│        └── fraud_dashboard.png
-│
-├── src/
-│   ├── data_cleaning.py
-│   ├── forecasting_utils.py
-│   ├── fraud_utils.py
-│   └── model_utils.py
-│
-├── results/
-│   ├── cleaned_feature_data.csv
-│   ├── forecast_results.csv
-│   └── fraud_predictions.csv
-│
-├── Architecture_diagram.png
-├── README.md
-└── requirements.txt
-
-📘 4. Technical Skills Demonstrated
+📘 3. Technical Skills Demonstrated
 🐍 Python & Data Science
 
 pandas, NumPy, matplotlib, seaborn
@@ -184,7 +147,7 @@ Data balancing (SMOTE)
 
 Feature engineering & preprocessing pipelines
 
-📈 5. Key Insights & Results
+📈 4. Key Insights & Results
 📌 Stock Forecasting Results
 
 Prophet captured trend + seasonality accurately
@@ -219,7 +182,7 @@ Fraud spikes in late months (Q4)
 
 Phishing accounts for most fraud volume
 
-📉 6. Dashboard Screenshots
+📉 5. Dashboard Screenshots
 📊 Stock Forecast Dashboard
 
 (Add screenshot)
@@ -230,34 +193,9 @@ Phishing accounts for most fraud volume
 (Add screenshot)
 
 
-📝 7. How to Run the Project
-Install Dependencies
-pip install -r requirements.txt
 
-Run Notebooks (In Order)
 
-01_data_collection.ipynb
-
-02_stock_forecasting.ipynb
-
-03_feature_engineering.ipynb
-
-04_fraud_detection_model.ipynb
-
-05_visualizations.ipynb
-
-Optional (Cloud Execution)
-
-Upload to S3 and run on EC2/SageMaker for scalable analytics.
-
-Power BI
-
-Open dashboards from:
-
-dashboards/Stock_Forecast_Dashboard.png
-dashboards/Fraud_Analysis_Dashboard.png
-
-🧩 8. Future Enhancements
+🧩 6. Future Enhancements
 
 Add Lambda + Glue for automated ETL
 
@@ -267,7 +205,7 @@ Use Athena + Power BI direct query
 
 Add live stock ingestion using APIs
 
-💼 9. About This Project (For Recruiters)
+💼 7. About This Project (For Recruiters)
 
 Designed and implemented a cloud-integrated financial analytics system that includes data ingestion, cleaning, forecasting, fraud detection, and dashboarding.
 
