@@ -185,12 +185,13 @@ Phishing accounts for most fraud volume
 📉 5. Dashboard Screenshots
 📊 Stock Forecast Dashboard
 
-(Add screenshot)
+
+![Stock Forecast Dashboard](dashboards/Stock_forecast_Dashboard.png)
 
 
 🛡 Fraud Analysis Dashboard
 
-(Add screenshot)
+![Fraud Analysis Dashboard](dashboards/Fraud_analysis_dashboard.png)
 
 
 
