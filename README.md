@@ -63,7 +63,7 @@ Fraud risk patterns & severity insights
 🏗 2. Cloud Architecture (AWS)
 ✔ Architecture Diagram
 
-![Architecture Diagram](dashboards/Architecture_diagram.png)
+![Architecture Diagram](dashboards/Architecture_daigram.png)
 
 Financial Analytics & Fraud Detection Cloud Architecture
 
